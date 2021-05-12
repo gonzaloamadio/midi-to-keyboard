@@ -14,8 +14,6 @@ Just because I wanted to pause and rewind YouTube piano videos easily and more c
 
 - Node.js
 
----
-
 ## Install
 
     $ npm install
